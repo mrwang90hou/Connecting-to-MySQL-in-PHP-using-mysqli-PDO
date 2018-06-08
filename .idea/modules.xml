@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Connecting-to-MySQL-in-PHP-using-mysqli-PDO.iml" filepath="$PROJECT_DIR$/.idea/Connecting-to-MySQL-in-PHP-using-mysqli-PDO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pdo.iml" filepath="$PROJECT_DIR$/.idea/pdo.iml" />
     </modules>
   </component>
 </project>

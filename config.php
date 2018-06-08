@@ -5,7 +5,7 @@
  *
  */
 
-$host       = "localhost";
+$host       = "127.0.0.1";
 $username   = "root";
 $password   = "wangning1995";
 $dbname     = "test";

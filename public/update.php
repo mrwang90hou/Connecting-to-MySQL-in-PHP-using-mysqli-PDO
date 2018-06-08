@@ -14,7 +14,6 @@ try {
 
   $statement = $connection->prepare($sql);
   $statement->execute();
-
   $result = $statement->fetchAll();
 } catch(PDOException $error) {
   echo $sql . "<br>" . $error->getMessage();
